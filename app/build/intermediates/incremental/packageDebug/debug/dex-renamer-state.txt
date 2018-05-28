@@ -1,0 +1,4 @@
+#Fri May 11 11:15:31 EDT 2018
+base.0=D\:\\DSProjects\\SimpleDynamo-vineeshravindran\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex
